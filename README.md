@@ -1,8 +1,10 @@
-# SALES DASHBOARD INSIGHTS USING POWERBI
+# SALES DASHBOARD INSIGHTS USING POWER BI
 
 Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 
-A MySQL server database was integrated with Power BI, where necessary data analysis and cleaning were performed. Ultimately, all the data was utilized to create interactive dashboards in Power BI. Dashboard can be access through Desktop and Mobile.
+A MySQL server database was integrated with Power BI for data analysis. The data was transformed and cleaned in the Power Query Editor, then used to create interactive dashboards in Power BI. These dashboards are accessible on both desktop and mobile devices.
+
+# Dashboard Preview:
 
 ## Feedback and Contributions
 
